@@ -1,5 +1,5 @@
 import React from 'react';
-import { SubHeading, MenuItem } from '../../components';
+import { SubHeading } from '../../components';
 import { data, images } from '../../constants';
 import './SpecialMenu.css';
 import ServiceBox from '../../components/ServiceBox';
